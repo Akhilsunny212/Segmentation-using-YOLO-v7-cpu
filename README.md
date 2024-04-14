@@ -23,20 +23,6 @@ clone the repo from WongKinYiu/yolov7/seg
 Obtain the dataset from Kaggle and use the Roboflow tool for image annotation.
 Structuring Data for Training
 Ensure your data is structured as follows:
-<ul>
-<li>yolov7-segmentation/data</li>
-  <ul>
-  <li>train</li>
-  </ul>
-  <ul>
-    <li>images (contains all training images)</li>
-    <li>labels (contains all training labels)</li>
-    </ul>
-  <ul>
-  <li>valid</li>
-  </ul>
-    <ul>
-    <li>images (contains all training images)</li>
-    <li>labels (contains all training labels)</li>
-     </ul>
-</ul>
+![image](https://github.com/Akhilsunny212/Segmentation-using-YOLO-v7-cpu/assets/78971481/b9a83892-165b-46ac-9c30-05ff7c080e18)
+
+
