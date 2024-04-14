@@ -25,7 +25,7 @@ Structuring Data for Training
 Ensure your data is structured as follows:
 <ul>
 <li>yolov7-segmentation/data</li>
-<ul>
+  <ul>
   <li>train</li>
   </ul>
   <ul>
@@ -34,9 +34,9 @@ Ensure your data is structured as follows:
     </ul>
   <ul>
   <li>valid</li>
-    </ul>
-  <ul>
+  </ul>
+    <ul>
     <li>images (contains all training images)</li>
     <li>labels (contains all training labels)</li>
      </ul>
-    </ul>
+</ul>
