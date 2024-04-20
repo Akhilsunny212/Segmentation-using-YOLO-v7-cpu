@@ -25,7 +25,7 @@ Structuring Data for Training
 Ensure your data is structured as follows:
 
 <p align="center">
-  <img src="[path_to_image](https://github.com/Akhilsunny212/Segmentation-using-YOLO-v7-cpu/blob/main/image_path.png?raw=true)" >
+  <img src="https://github.com/Akhilsunny212/Segmentation-using-YOLO-v7-cpu/blob/main/image_path.png?raw=true" >
 </p>
 
 
