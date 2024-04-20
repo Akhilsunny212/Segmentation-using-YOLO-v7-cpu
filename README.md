@@ -20,7 +20,7 @@ pip install -r requirements.txt!
 
 <h2>Preparing the Data</h2>
 Obtain the dataset from Kaggle and use the Roboflow tool for image annotation.
-Structuring Data for Training
+<h2>Structuring Data for Training</h2>
 Ensure your data is structured as follows:
 
 <p align="center">
