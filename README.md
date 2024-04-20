@@ -23,6 +23,9 @@ clone the repo from WongKinYiu/yolov7/seg
 Obtain the dataset from Kaggle and use the Roboflow tool for image annotation.
 Structuring Data for Training
 Ensure your data is structured as follows:
-!(https://github.com/Akhilsunny212/Segmentation-using-YOLO-v7-cpu/assets/78971481/b9a83892-165b-46ac-9c30-05ff7c080e18)
+
+<p align="center">
+  <img src="[path_to_image](https://github.com/Akhilsunny212/Segmentation-using-YOLO-v7-cpu/blob/main/image_path.png?raw=true)" >
+</p>
 
 
