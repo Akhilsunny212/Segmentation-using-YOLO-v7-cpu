@@ -14,6 +14,8 @@ Set up the workspace where you're operating; I've set it up using Anaconda.
 conda create -n yolov7 python=3.7
 conda activate yolov7
 
+
+
 clone the repo from [WongKinYiu/yolov7/seg
 ](https://github.com/WongKinYiu/yolov7/tree/u7/seg)
 <h2>Install dependencies from the requirements.txt file</h2>
