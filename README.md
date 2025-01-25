@@ -1,7 +1,6 @@
 # Segmentation-using-YOLO-v7-cpu
 Implementation of Segmentation using YOLO v7 in cpu
 
-
 <h2>Object Detection:</h2> Object detection models identify objects in an image and enclose them within bounding boxes. They answer the question of "what objects are in this image and where are they?"
 
 
